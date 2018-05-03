@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67163be1b3520854ea009c11f73b5ccf
+timeCreated: 1521620215
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dirt: {fileID: 2800000, guid: c2632c73e9037a543a1ee81f23cf5eea, type: 3}
+  - grass: {fileID: 2800000, guid: 66f3fe488a62a1c44a4e612ccec1d8eb, type: 3}
+  - road: {fileID: 2800000, guid: 2315417cd3170ab42af9f4b57bbb8cca, type: 3}
+  - water: {fileID: 2800000, guid: 16a46dcc5b46aec498596b4ddb7d9d3f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

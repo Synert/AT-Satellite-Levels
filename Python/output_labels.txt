@@ -1,0 +1,6 @@
+buildings
+dirt
+grass
+roads
+trees
+water
