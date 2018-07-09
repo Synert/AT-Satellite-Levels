@@ -2,7 +2,7 @@
 
 ### About
 Turns satellite images into level files, parsed in Unity. Uses the TensorFlow library in Python for image recognition.
-Created during my third year of uni for my Advanced Technologies module.
+Created during my third year of university for an Advanced Technologies module.
 
 ### Instructions
 The project as-is includes a few example levels that have already been parsed from images. These can be read with the Unity project.
@@ -17,4 +17,5 @@ Heightmaps were hard to obtain, and only one example is supplied in 'map1'.
 ![](http://www.synert.co.uk/images/code/satellite3.png)
 
 [Comparison video 1](https://www.youtube.com/watch?v=HS3qJjsYlig)
+
 [Comparison video 2](https://www.youtube.com/watch?v=YvwTiGNEtgg)
